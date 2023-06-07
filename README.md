@@ -1,1 +1,2 @@
-My first readme
+suzzy likes to code
+
